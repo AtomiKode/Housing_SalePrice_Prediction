@@ -1,5 +1,4 @@
 # Housing_SalePrice_Prediction - Dataset from Kaggle competition
-### Top 11% submission
 
 This project aims to predict the selling price of a houses based on various factors like LivingArea, YearBuilt, OverallQuality, OverallCondition etc. (predictor variables).
 
